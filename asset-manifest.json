@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://k777handball.github.io/csb-ieq698/static/css/main.afd7172b.chunk.css",
+    "main.js": "https://k777handball.github.io/csb-ieq698/static/js/main.90e90b01.chunk.js",
+    "main.js.map": "https://k777handball.github.io/csb-ieq698/static/js/main.90e90b01.chunk.js.map",
+    "runtime-main.js": "https://k777handball.github.io/csb-ieq698/static/js/runtime-main.d1a5dc39.js",
+    "runtime-main.js.map": "https://k777handball.github.io/csb-ieq698/static/js/runtime-main.d1a5dc39.js.map",
+    "static/js/2.193a0bb2.chunk.js": "https://k777handball.github.io/csb-ieq698/static/js/2.193a0bb2.chunk.js",
+    "static/js/2.193a0bb2.chunk.js.map": "https://k777handball.github.io/csb-ieq698/static/js/2.193a0bb2.chunk.js.map",
+    "index.html": "https://k777handball.github.io/csb-ieq698/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "https://k777handball.github.io/csb-ieq698/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.193a0bb2.chunk.js.LICENSE.txt": "https://k777handball.github.io/csb-ieq698/static/js/2.193a0bb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a5dc39.js",
+    "static/js/2.193a0bb2.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.90e90b01.chunk.js"
+  ]
+}
